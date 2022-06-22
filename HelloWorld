@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+			
+			
+			<meta name="viewport" content="width=device-width, intial-scale=1.0">
+			<meta charset="utf-8">
+			 <meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+		    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+			<title> My First Page </title>
+			<link rel="stylesheet" href="ProjectWebsiteMITCSS.css"></a>
+	</head>
+	
+	<body>
+		<div class="container">
+		<a class="active" href=file:///C:/Users/laure/OneDrive/Desktop/SecondProjectPage.html"> Projects Page </a>
+		
+		<h1>Lauren Barge</h1>
+		<h2> Skills </h2>
+		
+		
+		<ul>
+			<li>Front-End Web Development</li>
+			<li>Implementation of Web Animations</li>
+			<li>Debuging</li>
+			<li>Building Web Pages using JS, HTML, and C++</li>
+			<li>Managing Code Using GitHub</li>
+			<li>Utility Billing</li>
+		</ul>
+		
+		<iframe width = "100" height= "100" src="https://youtube.com/shorts/0Sj69TxmFR4?feature=share"></iframe>		
+		
+		<h2>My GitHub username is <a href="https://github.com/lcbarge">@lcbarge</a></h2>
+		
+		<p><h3>The best way to contact me is by email <i>laurencbarge@gmail.com</i> or <a href="https://www.linkedin.com/in/lauren-barge-bb53571a0/">LinkdIn</a></h3></p>
+		
+		
+		<img rel ="GradPic" img src="C:\Users\laure\OneDrive\Pictures\picpicpic.jpg">
+				
+	</body>
+	
+	
+			
+</html>
