@@ -1,0 +1,55 @@
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+.navbar-text {
+	font-color: red;
+	border: 6px dotted;
+	display: flex;
+	flex-direction;
+}
+
+p {
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+	font-family: Fantasy;
+	text-align: center;
+	font-size: 24pt;
+	letter-spacing: 1em;
+	word-spacing: 12px;
+	text-decoration: Blink;
+	text-transform: uppercase;
+}
+
+ul {
+	text-align: center;
+	item-spacing: 1em;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	text-align: center;
+}
+
+
+h2 {
+	text-align: center;
+	word-spacing: 1em;
+	letter-spacing: .5em;
+}
+
+h2:hover {
+	background-color: red;
+	text-transform: uppercase;
+}
+
+h3 {
+	background-color: yellow;
+}
+
+active {
+	color: red;
+}
